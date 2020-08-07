@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Rimefeller Neceros Patch</name>
+  <author>Neceros</author>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <packageId>neceros.rimefellernecerospatch</packageId>
+  <description>I tweak rimefeller.</description>
+</ModMetaData>
